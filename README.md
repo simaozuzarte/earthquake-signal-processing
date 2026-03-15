@@ -96,5 +96,7 @@ Note: The data collection step connects to the SCEDC client and downloads wavefo
 ### Authors
 * [Carolina Dias]() 
 * [Mariana Pereira](https://github.com/mfaria-p) 
-* [Simão Bernardo]() 
+* [Simão Bernardo](https://github.com/simaozuzarte) 
 * [Sofia Fernandes]() 
+
+> Repository originally published by [@mfaria-p](https://github.com/mfaria-p). Collaborative project developed as part of the Signal Processing curricular unit — Master's in Data Science and Engineering.
